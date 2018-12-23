@@ -1,0 +1,14 @@
+Steps in ATOM powershell 
+
+
+pip install virtualenv
+
+website> python -m venv virtual
+- This will create a virtual folder with python setup
+
+website> .\virtual\Scripts\pip install flask
+- This will install flask in the virtual folder
+
+All the website files are in the App folder.
+website> .\virtual\Scripts\python .\App\script.py
+-This will start the website
