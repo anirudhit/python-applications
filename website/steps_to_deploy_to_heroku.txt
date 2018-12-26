@@ -1,0 +1,11 @@
+1) Install heroku toolbelt
+2) Navigate to folder where there is script.py
+3) Open cmd prompt
+4) >heroku login
+   Follow the steps
+5) >heroku create anirudhit
+   "anirudhit" this will create an app with anirudhit if available
+6) >..\virtual\Scripts\pip freeze
+   - This will return the list of python libraries from virtual python
+6) >..\virtual\Scripts\pip install gunicorn
+   - This will return the list of python libraries from virtual python
